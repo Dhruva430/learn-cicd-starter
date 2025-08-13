@@ -1,4 +1,4 @@
-![CI Status](https://github.com/Dhruva430/learn-cicd-starter/actions/workflows/ci.yml/badge.jpg)
+![CI Status](https://github.com/Dhruva430/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
