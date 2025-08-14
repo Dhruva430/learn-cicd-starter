@@ -27,4 +27,5 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 ```
 Testing Guide -- https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 Testing Flags -- https://pkg.go.dev/cmd/go#hdr-Testing_flags
+Linting Checks -- https://staticcheck.dev/docs/checks
 ```
